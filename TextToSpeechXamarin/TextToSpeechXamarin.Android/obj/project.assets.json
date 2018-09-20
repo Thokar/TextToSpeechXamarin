@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\TextToSpeechXamarin.Android.csproj",
+      "projectUniqueName": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\TextToSpeechXamarin.Android.csproj",
       "projectName": "TextToSpeechXamarin.Android",
-      "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\TextToSpeechXamarin.Android.csproj",
+      "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\TextToSpeechXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\karbe\\.nuget\\packages\\",
-      "outputPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\obj\\",
+      "outputPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -846,8 +846,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj": {
-              "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj"
+            "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj": {
+              "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj"
             }
           }
         }

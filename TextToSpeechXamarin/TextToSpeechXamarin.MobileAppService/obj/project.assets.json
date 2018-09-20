@@ -12781,11 +12781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\TextToSpeechXamarin.MobileAppService.csproj",
+      "projectUniqueName": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\TextToSpeechXamarin.MobileAppService.csproj",
       "projectName": "TextToSpeechXamarin.MobileAppService",
-      "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\TextToSpeechXamarin.MobileAppService.csproj",
+      "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\TextToSpeechXamarin.MobileAppService.csproj",
       "packagesPath": "C:\\Users\\karbe\\.nuget\\packages\\",
-      "outputPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\obj\\",
+      "outputPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.MobileAppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

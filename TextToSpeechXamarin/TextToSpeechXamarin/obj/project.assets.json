@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj",
+      "projectUniqueName": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj",
       "projectName": "TextToSpeechXamarin",
-      "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj",
+      "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj",
       "packagesPath": "C:\\Users\\karbe\\.nuget\\packages\\",
-      "outputPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\obj\\",
+      "outputPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

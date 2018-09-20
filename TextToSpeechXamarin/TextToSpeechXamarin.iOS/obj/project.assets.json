@@ -791,11 +791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\TextToSpeechXamarin.iOS.csproj",
+      "projectUniqueName": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\TextToSpeechXamarin.iOS.csproj",
       "projectName": "TextToSpeechXamarin.iOS",
-      "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\TextToSpeechXamarin.iOS.csproj",
+      "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\TextToSpeechXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\karbe\\.nuget\\packages\\",
-      "outputPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\obj\\",
+      "outputPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -814,8 +814,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj": {
-              "projectPath": "D:\\FilesToGo\\Angular\\FullStackApp\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj"
+            "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj": {
+              "projectPath": "D:\\c\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin\\TextToSpeechXamarin.csproj"
             }
           }
         }
